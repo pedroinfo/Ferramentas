@@ -28,6 +28,8 @@
 
 * Angular
 
+* FontAwesome 
+
 <b> Banco de Dados </b>
 
 * SQL Server
