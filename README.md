@@ -30,6 +30,8 @@
 
 * SweetAlert
 
+* Select2 
+
 * AngularJS
 
 * Angular
