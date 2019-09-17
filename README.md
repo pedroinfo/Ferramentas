@@ -2,6 +2,8 @@
 <hr>
 <b>Desenvolvimento Back End</b>
 
+* ASP.NET CORE
+
 * ASP.NET MVC
 
 * ASP.NET Web API
@@ -24,6 +26,10 @@
 
 * Bootstrap
 
+* BootBox
+
+* SweetAlert
+
 * AngularJS
 
 * Angular
@@ -39,6 +45,8 @@
 * MySQL
 
 * PostgreSQL
+
+* MongoDB
 
 <b>Produtividade</b>
 
