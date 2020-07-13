@@ -14,7 +14,9 @@
 
 * ADO.NET | Entity Framework | Dapper | Linq 
 
-* Windows Services 
+* Windows Services | Topshelf
+
+* RabbitMQ
 
  <b>Desenvolvimento Front End</b>
 
