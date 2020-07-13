@@ -18,6 +18,8 @@
 
 * RabbitMQ
 
+* Hangfire
+
  <b>Desenvolvimento Front End</b>
 
 * HTML5 
