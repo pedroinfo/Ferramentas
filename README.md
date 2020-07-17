@@ -30,11 +30,13 @@
 
 * Bootstrap
 
-* BootBox
+* BootBox 
 
 * SweetAlert
 
-* Select2 
+* Quill - Rich Text Editor
+
+* Select2 - Dropdown
 
 * AngularJS
 
