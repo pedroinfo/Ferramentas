@@ -44,6 +44,10 @@
 
 * FontAwesome 
 
+* Datatables (Grid) jQuery, etc.
+
+* Simple-DataTables - Grid - Vanilla js :)
+
 <b> Banco de Dados </b>
 
 * SQL Server
