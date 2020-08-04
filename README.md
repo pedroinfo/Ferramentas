@@ -20,6 +20,8 @@
 
 * Hangfire
 
+* NodeJS | Express | Nest
+
  <b>Desenvolvimento Front End</b>
 
 * HTML5 
