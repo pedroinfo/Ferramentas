@@ -14,6 +14,8 @@
 
 * ADO.NET | Entity Framework | Dapper | Linq 
 
+* xUnit | JMeter
+
 * Windows Services | Topshelf
 
 * RabbitMQ
