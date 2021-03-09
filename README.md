@@ -52,6 +52,11 @@
 
 * Simple-DataTables - Grid - Vanilla js :)
 
+<b> Uso Geral </b>
+
+* FileHelpers - Arquivos posicionais / Arquivos Delimitados
+* CsvHelper - Arquivos CSV
+
 <b> Banco de Dados </b>
 
 * SQL Server
