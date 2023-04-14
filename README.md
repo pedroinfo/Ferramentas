@@ -56,6 +56,7 @@
 
 * FileHelpers - Arquivos posicionais / Arquivos Delimitados
 * CsvHelper - Arquivos CSV
+* Spectre.Console - Aplicações bonitas em Console Application
 
 <b> Banco de Dados </b>
 
